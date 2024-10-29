@@ -32,7 +32,7 @@ O controle de estoque trará o seguinte funcionamento:
 
 Esse sistema além de informar a quantidade de produtos disponível, impede que os clientes tentem adquirir produtos fora de estoque, indisponibilizando a compra de determinado produto.
 
-## Requisitos não funcionais:
+### Requisitos não funcionais:
 
 ### Segurança 
 Uso do protocolo HTTPS para garantir que a comunicação entre o cliente e o servidor seja segura.
@@ -46,3 +46,36 @@ Pensando na escalabilidade, o sistema da loja será projeto para que mudanças e
 ## 3. Modelagem do Banco de Dados
 
 ![Captura de tela 2024-10-29 162807](https://github.com/user-attachments/assets/21397fd3-c2cf-43c3-b848-ce080aec6b97)
+
+## 4. Arquitetura da Aplicação
+
+### Tecnologias Utilizadas: 
+
+#### Front End.
+Linguagens usadas: 
+
+HTML;
+
+CSS;
+
+Java Script. 
+
+#### Frameworks:
+
+Flask;
+
+Tailwind.
+
+#### Back End.
+Linguagens usadas: 
+
+Python;
+
+Java Script;
+
+SQL.  
+
+Frameworks:
+
+Flask.
+

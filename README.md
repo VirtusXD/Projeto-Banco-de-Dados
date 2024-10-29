@@ -79,3 +79,8 @@ SQL.
 
 Flask.
 
+## 5. Design da Interface do Usuário
+
+### Base para criação dos recursos visuais do site
+
+![img_kindleWeb_BR2x _CB610886625_](https://github.com/user-attachments/assets/fa2b734a-8cee-40a6-aa21-91a081677b16)

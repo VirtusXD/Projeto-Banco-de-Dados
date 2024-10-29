@@ -40,5 +40,8 @@ Uso do protocolo HTTPS para garantir que a comunicação entre o cliente e o ser
 ### Desempenho 
 A otimização do desempenho será feita através do uso de imagens de tamanho apropriado, evitando que a página demore para carregar. E também a organização devida em todo código do projeto, a fim de gerar um ambiente livre de erros e de alta resposta.  
 
+### Escalabilidade:
+Pensando na escalabilidade, o sistema da loja será projeto para que mudanças em seu código sejam fáceis e descomplicadas, um código de fácil implementação de novos recursos, tendo em vista que novas opurtunidades de expansão são constantes em uma loja online.
+
 
 

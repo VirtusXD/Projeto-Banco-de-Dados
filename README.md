@@ -51,7 +51,7 @@ Pensando na escalabilidade, o sistema da loja será projeto para que mudanças e
 
 ### Tecnologias Utilizadas: 
 
-#### Front End.
+### Front End.
 Linguagens usadas: 
 
 HTML;
@@ -66,7 +66,7 @@ Flask;
 
 Tailwind.
 
-#### Back End.
+### Back End.
 Linguagens usadas: 
 
 Python;
@@ -75,7 +75,7 @@ Java Script;
 
 SQL.  
 
-Frameworks:
+### #Frameworks:
 
 Flask.
 

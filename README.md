@@ -11,9 +11,11 @@ Além disso o projeto contará com controle de estoque sob as compras feitas onl
 ### Requisitos funcionais:
 Registro de Usuários - Uma das funcionalidades será o registro de cada usuário para o login no site, registrando e-mail (ou telefone) e senha no banco de dados, onde será feita a comunicação entre site e o dba.  
 
-Formulário - Na mesma página de login será feita a inserção de um breve formulário sobre os interesses e preferencias do usuário, permitindo assim que seja feita recomendações de livros populares e recém-lançados, tudo isso com base nas informações disponibilizadas pelo usuário. 
+#### Formulário 
+- Na mesma página de login será feita a inserção de um breve formulário sobre os interesses e preferencias do usuário, permitindo assim que seja feita recomendações de livros populares e recém-lançados, tudo isso com base nas informações disponibilizadas pelo usuário. 
 
-Filtro de Busca - O sistema de filtro de busca será desenvolvido com base nas opções seguintes opções:
+#### Filtro de Busca - 
+O sistema de filtro de busca será desenvolvido com base nas opções seguintes opções:
 
 Tema;
 Autor;
@@ -24,6 +26,7 @@ Tornando assim a experiencia do usuário mais prática e ágil, aumentando a pro
 Controle de Estoque - O controle de estoque trará o seguinte funcionamento:
 
 --> O “sistema” registra e monitora em tempo real a quantidade de cada produto no banco de dados, atualizando automaticamente a disponibilidade conforme as vendas ocorrem.
+
 --> Quando um produto se esgota, o sistema reconhece essa alteração, e exibe a quantidade disponível como "Esgotado". 
 
 Esse sistema além de informar a quantidade de produtos disponível, impede que os clientes tentem adquirir produtos fora de estoque, indisponibilizando a compra de determinado produto.

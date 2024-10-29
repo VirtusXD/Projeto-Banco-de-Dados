@@ -9,5 +9,22 @@ Além disso o projeto contará com controle de estoque sob as compras feitas onl
 
 ## 2. Requisitos do Sistema
 ### Requisitos funcionais:
+Registro de Usuários - Uma das funcionalidades será o registro de cada usuário para o login no site, registrando e-mail (ou telefone) e senha no banco de dados, onde será feita a comunicação entre site e o dba.  
+
+Formulário - Na mesma página de login será feita a inserção de um breve formulário sobre os interesses e preferencias do usuário, permitindo assim que seja feita recomendações de livros populares e recém-lançados, tudo isso com base nas informações disponibilizadas pelo usuário. 
+Filtro de Busca - O sistema de filtro de busca será desenvolvido com base nas opções seguintes opções: 
+Tema;
+Autor;
+Preço.
+Tornando assim a experiencia do usuário mais prática e ágil, aumentando a probabilidade de que o usuário encontre livros de sua preferência. 
+Controle de Estoque - O controle de estoque trará o seguinte funcionamento:
+--> O “sistema” registra e monitora em tempo real a quantidade de cada produto no banco de dados, atualizando automaticamente a disponibilidade conforme as vendas ocorrem.
+--> Quando um produto se esgota, o sistema reconhece essa alteração, e exibe a quantidade disponível como "Esgotado". 
+Esse sistema além de informar a quantidade de produtos disponível, impede que os clientes tentem adquirir produtos fora de estoque, indisponibilizando a compra de determinado produto.
+
+Requisitos não funcionais:
+Segurança – Uso do protocolo HTTPS para garantir que a comunicação entre o cliente e o servidor seja segura.
+Desempenho – A otimização do desempenho será feita através do uso de imagens de tamanho apropriado, evitando que a página demore para carregar. E também a organização devida em todo código do projeto, a fim de gerar um ambiente livre de erros e de alta resposta.  
+
 
 

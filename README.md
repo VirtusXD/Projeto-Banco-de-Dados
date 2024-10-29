@@ -43,5 +43,6 @@ A otimização do desempenho será feita através do uso de imagens de tamanho a
 ### Escalabilidade:
 Pensando na escalabilidade, o sistema da loja será projeto para que mudanças em seu código sejam fáceis e descomplicadas, um código de fácil implementação de novos recursos, tendo em vista que novas opurtunidades de expansão são constantes em uma loja online.
 
+## 3. Modelagem do Banco de Dados
 
-
+![Captura de tela 2024-10-29 162807](https://github.com/user-attachments/assets/21397fd3-c2cf-43c3-b848-ce080aec6b97)

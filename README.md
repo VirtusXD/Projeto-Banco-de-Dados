@@ -1,36 +1,34 @@
-# Projeto-Banco-de-Dados
-Desenvolvimento de Aplicações com Banco de Dados - Trabalho Prático 3° Bimestre 
+<h1>Billklimv - conectando através das páginas.</h1>
+Trabalho para a Disciplina de Desenvolvimento de aplicações com Banco de Dados - Trabalho Prático 4° Bimestre -
 
-## 1. Introdução
+## 1. Objetivo do projeto.
 
-O projeto tem como objetivo o desenvolvimento de uma loja de livros, uma plataforma online que facilite o acesso, organização e compartilhamento de livros digitais e físicos. O site permitirá que 
-os usuários visualizem, pesquisem e baixem uma gama de livros digitais em diferentes categorias, proporcionando uma experiencia personalizável e acessível de acordo com o gosto pessoal do leitor. 
-Além disso o projeto contará com controle de estoque sob as compras feitas online, integrando um banco de dados ao site, informando ao cliente a quantidade exata de cópias disponíveis daquele produto e encerrando a possibilidade de compra ao encerrar o estoque.  
+O projeto tem como objetivo o desenvolvimento de uma plataforma online que consite em uma simulação de vendas e a organização de livros digitais. A loja virtual tem como finalidade possibilitar o acesso e a visualização das obras literarias de maneira eficiente e simples. 
+Além disso o site objetiva fornecer informações específicas sobre cada livro, como autor, sinopse, valor, data de publicação e título, proporcionando uma experiêcia transparente e segura.
 
-## 2. Requisitos do Sistema
-### Requisitos funcionais:
-Registro de Usuários - Uma das funcionalidades será o registro de cada usuário para o login no site, registrando e-mail (ou telefone) e senha no banco de dados, onde será feita a comunicação entre site e o dba.  
 
-### Formulário 
-Na mesma página de login será feita a inserção de um breve formulário sobre os interesses e preferencias do usuário, permitindo assim que seja feita recomendações de livros populares e recém-lançados, tudo isso com base nas informações disponibilizadas pelo usuário. 
+## 2. Funcionalidades do projeto.
+### Registro de Usuários 
+Objetivo: Permitir que o usuário crie uma conta, com a qual poderá acessar o site, em que seus dados serão fornecidos como Nome e Senha, Permitindo um acesso personalizado.
+
+No que isso é importante: O registro do usuário é fundamental, pois permite a segurança e a privacidade de sua conta (confiabilidade). Além de contribuir para a organização da empresa.
 
 ### Filtro de Busca 
-O sistema de filtro de busca será desenvolvido com base nas opções seguintes opções:
+O sistema de filtro de busca foi desenvolvido para pesquisar os livros por seu respectivo nome.
+O que torna o processo de busca mais prático. Auxiliando o usuário a encontrar de maneira rápida o livro de sua preferência. Otimizando o tempo, indo diretamente ao que mais lhe agrada.  
 
-- Tema;
-- Autor;
-- Preço.
+### Carrinho de compra 
+Objetivo: Permiter que o usuário escolha diversos produtos sem precisar finalizar sua compra de imediato, auxiliar na visualização do que está sendo comprado, conceder ao usuário a capacidade de alterar ou adiconar mais livros. 
 
-Tornando assim a experiencia do usuário mais prática e ágil, aumentando a probabilidade de que o usuário encontre livros de sua preferência.
+No que isso é importante: Facilita na organização das compras, permite que o cliente "guarde", de uma certa forma, as obras de seu interesse, sem precisar se preocupar em buscar novamente aquele item. Contribui para verificação do valor total a ser pago, reduzindo o abandono das compras. 
 
-### Controle de Estoque 
-O controle de estoque trará o seguinte funcionamento:
+## 3. Escopo (O que não é o objetivo do projeto).
 
---> O “sistema” registra e monitora em tempo real a quantidade de cada produto no banco de dados, atualizando automaticamente a disponibilidade conforme as vendas ocorrem.
+Não temos como objetivo do nosso projeto realizar transições financeiras, mas simular um site de compras de livros online. Desta maneira, não temos como finalidade fornecer quaisquer forma de pagamento, seja por meio de dinheiro, cartão ou pix. Não temos como foco a entrega dos produtos, logo não solicitaremos dados como CEP, telefone, endereço ou até mesmo e-mail de confirmação da compra. Gestão de estoque também não será implementada. Também não será nossa prioridade adicionar mais livros ao catálogo do site, matendo apenas os livros já implementados. 
 
---> Quando um produto se esgota, o sistema reconhece essa alteração, e exibe a quantidade disponível como "Esgotado". 
 
-Esse sistema além de informar a quantidade de produtos disponível, impede que os clientes tentem adquirir produtos fora de estoque, indisponibilizando a compra de determinado produto.
+
+
 
 ### Requisitos não funcionais:
 

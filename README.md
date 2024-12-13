@@ -24,6 +24,50 @@ Não temos como objetivo do nosso projeto realizar transições financeiras, mas
 ## Público-Alvo
 Temos como público-alvo leitores que buscam por histórias emocionantes e românticas, que procuram por narrativas com valores religiosos, pais e responsáveis em geral que querem educar e entreter seus pequenos, pois possuimos o gênero pensado neles, a chamada literatura infantil. Além dos que amam narrativas envolventes e fantasiosas. 
 
+### Requisitos
+Requisitos do sistema:
+
+Para usuários:
+
+Recomendado
+
+- Navegador recomendado: Google Chrome - Versão mais recente
+
+- 8GB Memória RAM
+
+Mínimo:
+
+- Navegador com suporte a Javascript, e CSS
+
+- 4GB Memória RAM
+
+----------------
+
+Para o servidor:
+
+Recomendado:
+
+- Windows Server 2022; Ubuntu server 22.04 LTS
+
+- MySQL versão 8.0 ou posterior
+
+- Flask 3.1 ou superior
+
+- Tailwind CSS v3.4.13 ou superior
+
+- 8 GB Memória RAM ou superior
+
+Mínimo:
+
+- Windows server 2016; Distribuição linux com kernel 4.20
+
+- MySQL versão 8.0
+
+- Flask 3.1
+
+- Tailwind CSS v3.4.13
+
+- 4 GB Memória RAM
 
 ### Requisitos não funcionais:
 

@@ -42,6 +42,9 @@ Pensando na escalabilidade, o sistema da loja será projeto para que mudanças e
 
 ## 4. Arquitetura da Aplicação
 
+
+![1](https://github.com/user-attachments/assets/d1b742cd-5251-49ef-bd10-523fff645a58)
+
 ### Tecnologias Utilizadas: 
 
 ### Front End.

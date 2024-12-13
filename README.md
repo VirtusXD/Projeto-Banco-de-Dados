@@ -53,8 +53,6 @@ Recomendado:
 
 - Flask 3.1 ou superior
 
-- Tailwind CSS v3.4.13 ou superior
-
 - 8 GB Memória RAM ou superior
 
 Mínimo:
@@ -64,8 +62,6 @@ Mínimo:
 - MySQL versão 8.0
 
 - Flask 3.1
-
-- Tailwind CSS v3.4.13
 
 - 4 GB Memória RAM
 

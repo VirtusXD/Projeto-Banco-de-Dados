@@ -17,17 +17,12 @@ No que isso é importante: O registro do usuário é fundamental, pois permite a
 O sistema de filtro de busca foi desenvolvido para pesquisar os livros por seu respectivo nome.
 O que torna o processo de busca mais prático. Auxiliando o usuário a encontrar de maneira rápida o livro de sua preferência. Otimizando o tempo, indo diretamente ao que mais lhe agrada.  
 
-### Carrinho de compra 
-Objetivo: Permiter que o usuário escolha diversos produtos sem precisar finalizar sua compra de imediato, auxiliar na visualização do que está sendo comprado, conceder ao usuário a capacidade de alterar ou adiconar mais livros. 
-
-No que isso é importante: Facilita na organização das compras, permite que o cliente "guarde", de uma certa forma, as obras de seu interesse, sem precisar se preocupar em buscar novamente aquele item. Contribui para verificação do valor total a ser pago, reduzindo o abandono das compras. 
-
 ## 3. Escopo (O que não é o objetivo do projeto).
 
 Não temos como objetivo do nosso projeto realizar transições financeiras, mas simular um site de compras de livros online. Desta maneira, não temos como finalidade fornecer quaisquer forma de pagamento, seja por meio de dinheiro, cartão ou pix. Não temos como foco a entrega dos produtos, logo não solicitaremos dados como CEP, telefone, endereço ou até mesmo e-mail de confirmação da compra. Gestão de estoque também não será implementada. Também não será nossa prioridade adicionar mais livros ao catálogo do site, matendo apenas os livros já implementados. 
 
-
-
+## Público-Alvo
+Temos como público-alvo leitores que buscam por histórias emocionantes e românticas, que procuram por narrativas com valores religiosos, pais e responsáveis em geral que querem educar e entreter seus pequenos, pois possuimos o gênero pensado neles, a chamada literatura infantil. Além dos que amam narrativas envolventes e fantasiosas. 
 
 
 ### Requisitos não funcionais:
